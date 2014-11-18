@@ -5,6 +5,8 @@ public class GIT_TEST {
 		
 		
 		System.out.println("Hallo GIT-Welt");
+		//Änderung 1
+		System.out.println("Hallo Java-Welt");
 
 	}
 
